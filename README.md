@@ -36,7 +36,7 @@ ___
 * #### [Лабораторная работа 5](labs/lab_5.md)
 * #### [Лабораторная работа 6](labs/lab_6.md)
 
-## [Темы рефератов]()
+## [Темы рефератов](https://docs.google.com/spreadsheets/d/16TEuWSe4w9NMmwc5dN8W5wcCzzchDc4ZUnFFZOWGzWk/edit?usp=sharing)
 
 ## FAQ
 
